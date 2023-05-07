@@ -3,7 +3,7 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: white;
+    background: rgba(255,255,255,0.8);
 		width: 100%;
 }
 
@@ -13,6 +13,9 @@ body {
 	padding-bottom: 8px;
 	margin: 0;
 	width: 880pt;
+	background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 
 #layout-menu {
@@ -38,7 +41,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: white;
+    /* background: white; */
     text-align: left;
     vertical-align: top;
 }
