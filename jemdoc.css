@@ -52,12 +52,14 @@ body {
 }
 
 .list_panel{
-	font-family:ChildrenSans; 
+	font-family:'Mulish', 'Raleway', BlinkMacSystemFont, sans-serif; 
 	margin-top: 20px; 
 	background-color: rgba(255, 255, 255, 0.5); 
 	padding: 28px 30px;
 	border-radius: 8px;
-	font-size: 18px;
+	font-size: 14px;
+	font-weight: 200;
+	line-height: 24px;
 }
 
 tt {
@@ -73,6 +75,7 @@ a, a > tt {
 	/* color: #652cec; */
 	color:#7d57ba;
 	text-decoration: none;
+	font-weight: 400;
 }
 
 a:hover {
