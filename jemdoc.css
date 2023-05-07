@@ -3,7 +3,7 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: rgba(255,255,255,0.7);
+    background: rgba(255,255,255,0.8);
 		width: 100%;
 }
 
@@ -49,6 +49,14 @@ body {
 #layout-menu a {
 	line-height: 1.5em;
 	margin-left: 0.5em;
+}
+
+.list_panel{
+	font-family:coffe and tea; 
+	margin-top: 20px; 
+	background-color: rgba(255, 255, 255, 0.5); 
+	padding: 10px 30px;
+	border-radius: 8px;
 }
 
 tt {
@@ -132,7 +140,7 @@ h1, h2, h3 {
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #aaaaaa;
+	border-bottom: 1px dashed #aaaaaa;
 }
 
 h1 {
