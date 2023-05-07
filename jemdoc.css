@@ -52,11 +52,12 @@ body {
 }
 
 .list_panel{
-	font-family:coffe and tea; 
+	font-family:ChildrenSans; 
 	margin-top: 20px; 
 	background-color: rgba(255, 255, 255, 0.5); 
-	padding: 10px 30px;
+	padding: 28px 30px;
 	border-radius: 8px;
+	font-size: 18px;
 }
 
 tt {
